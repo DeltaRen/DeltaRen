@@ -1,4 +1,4 @@
-# DeltaRen
+# Delta333
 
 [![GameJolt](https://img.shields.io/badge/Game%20Jolt-bage?style=for-the-badge&logo=gamejolt&logoColor=white&logoSize=20&color=%232D8C3C)](https://gamejolt.com/@delta_333)
 [![Itch.io](https://img.shields.io/badge/Itch.io-bage?style=for-the-badge&logo=itchdotio&logoColor=white&logoSize=20&color=%23FA5C5C)](http://delta333228.itch.io/)
